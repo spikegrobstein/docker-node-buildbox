@@ -6,6 +6,7 @@ RUN apt-get update && apt-get install -y \
     curl \
     build-essential \
     git \
+    rsync \
     locales
 
 # first install node
