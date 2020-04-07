@@ -30,4 +30,4 @@ USER build
 
 WORKDIR /build
 
-ENV NODE_ENV=prod
+ENV NODE_ENV=production
