@@ -7,6 +7,7 @@ RUN apt-get update && apt-get install -y \
     build-essential \
     git \
     rsync \
+    libpng-dev \
     locales
 
 # first install node
